@@ -1,3 +1,4 @@
+require 'scraperwiki'
 require 'mechanize'
 
 def clean_whitespace(a)
@@ -29,7 +30,7 @@ def extract_page_content(agent, page)
       'comment_url' => comment_url,
     }
 
-    if (ScraperWiki.select("* from swdata where `council_reference`='#{record['council_reference']}'").empty? rescue true)
+    if (ScraperWiki.select("* from data where `council_reference`='#{record['council_reference']}'").empty? rescue true)
       # The address is only shown on the application detail page. Only get it if this is a new record
       record['address'] = get_address(agent, record['info_url'])
       # Only save the record if there is actually an address
