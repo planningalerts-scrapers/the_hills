@@ -28,11 +28,16 @@ class TheHillsScraper
 
   # Returns a list of URLs for all the applications on exhibition
   def urls
-    # Get the main page and ask for the list of DAs on exhibition
+    # Get the main page and ask for DAs
     page = agent.get(enquiry_url)
     form = page.forms.first
     form.radiobuttons[0].click
     page = form.submit(form.button_with(:value => /Next/))
+
+    # Search for the last 30 days
+    form = page.forms.first
+    form.radiobuttons.last.click
+    page = form.submit(form.button_with(:value => /Search/))
 
     page_label = page.at('span#ctl00_MainBodyContent_mPageNumberLabel')
     if page_label.nil?
