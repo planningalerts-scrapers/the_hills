@@ -3,7 +3,7 @@ require 'scraperwiki'
 
 # This is using the ePathway system.
 
-class WollongongScraper
+class TheHillsScraper
   attr_reader :agent
 
   def initialize
@@ -23,7 +23,7 @@ class WollongongScraper
 
   # The main url for the planning system which can be reached directly without getting a stupid session timed out error
   def enquiry_url
-    "http://epathway.wollongong.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx"
+    "https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx"
   end
 
   # Returns a list of URLs for all the applications on exhibition
@@ -47,7 +47,7 @@ class WollongongScraper
     (1..number_of_pages).each do |page_no|
       # Don't refetch the first page
       if page_no > 1
-        page = agent.get("http://epathway.wollongong.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquirySummaryView.aspx?PageNumber=#{page_no}")
+        page = agent.get("https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquirySummaryView.aspx?PageNumber=#{page_no}")
       end
       # Get a list of urls on this page
       urls += extract_urls_from_page(page)
@@ -100,4 +100,4 @@ class WollongongScraper
   end
 end
 
-WollongongScraper.new.applications
+TheHillsScraper.new.applications
