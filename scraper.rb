@@ -39,7 +39,7 @@ class TheHillsScraper
     form.radiobuttons.last.click
     page = form.submit(form.button_with(:value => /Search/))
 
-    page_label = page.at('span#ctl00_MainBodyContent_mPageNumberLabel')
+    page_label = page.at('#ctl00_MainBodyContent_mPagingControl_pageNumberLabel')
     if page_label.nil?
       # If we can't find the label assume there is only one page of results
       number_of_pages = 1
