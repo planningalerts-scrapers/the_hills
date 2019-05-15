@@ -46,7 +46,6 @@ puts "Found #{number_of_pages} pages of development applications"
       description:       row.search(:td)[2].inner_text,
       address:           row.search(:td)[3].inner_text,
       info_url:          enquiry_url,
-      comment_url:       enquiry_url,
       date_scraped:      Date.today.to_s
     }
 
