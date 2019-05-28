@@ -1,6 +1,10 @@
 require "epathway_scraper"
 
-agent = Mechanize.new
+scraper = EpathwayScraper::Scraper.new(
+  "https://epathway.thehills.nsw.gov.au/ePathway/Production"
+)
+
+agent = scraper.agent
 enquiry_url = "https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx"
 
 # Get the main page and ask for DAs
@@ -34,20 +38,18 @@ puts "Found #{number_of_pages} pages of development applications"
   end
 
   # Extract applications
-  page.at('table.ContentPanel').search('tr')[1..-1].each do |row|
-
-    date_received = row.search(:td)[1].inner_text
-    day, month, year = date_received.split("/").map{|s| s.to_i}
+  table = page.at('table.ContentPanel')
+  scraper.extract_table_data_and_urls(table).each do |row|
+    data = scraper.extract_index_data(row)
 
     record = {
-      date_received:     Date.new(year, month, day).to_s,
-      council_reference: row.search(:td)[0].inner_text,
-      description:       row.search(:td)[2].inner_text,
-      address:           row.search(:td)[3].inner_text,
-      info_url:          enquiry_url,
-      date_scraped:      Date.today.to_s
+      "date_received" =>     data[:date_received],
+      "council_reference" => data[:council_reference],
+      "description" =>       data[:description],
+      "address" =>           data[:address],
+      "info_url" =>          enquiry_url,
+      "date_scraped" =>      Date.today.to_s
     }
-
-    ScraperWiki.save_sqlite([:council_reference], record)
+    EpathwayScraper.save(record)
   end
 end
