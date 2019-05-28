@@ -18,15 +18,7 @@ form = page.forms.first
 form.radiobuttons.last.click
 page = form.submit(form.button_with(:value => /Search/))
 
-page_label = page.at('#ctl00_MainBodyContent_mPagingControl_pageNumberLabel')
-if page_label.nil?
-  # If we can't find the label assume there is only one page of results
-  number_of_pages = 1
-elsif page_label.inner_text =~ /Page \d+ of (\d+)/
-  number_of_pages = $~[1].to_i
-else
-  raise "Unexpected form for number of pages"
-end
+number_of_pages = scraper.extract_total_number_of_pages(page)
 
 puts "Found #{number_of_pages} pages of development applications"
 
@@ -37,19 +29,7 @@ puts "Found #{number_of_pages} pages of development applications"
     page = agent.get("https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquirySummaryView.aspx?PageNumber=#{page_no}")
   end
 
-  # Extract applications
-  table = page.at('table.ContentPanel')
-  scraper.extract_table_data_and_urls(table).each do |row|
-    data = scraper.extract_index_data(row)
-
-    record = {
-      "date_received" =>     data[:date_received],
-      "council_reference" => data[:council_reference],
-      "description" =>       data[:description],
-      "address" =>           data[:address],
-      "info_url" =>          enquiry_url,
-      "date_scraped" =>      Date.today.to_s
-    }
+  scraper.scrape_index_page(page) do |record|
     EpathwayScraper.save(record)
   end
 end
