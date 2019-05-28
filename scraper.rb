@@ -1,5 +1,4 @@
-require 'mechanize'
-require 'scraperwiki'
+require "epathway_scraper"
 
 agent = Mechanize.new
 enquiry_url = "https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx"
