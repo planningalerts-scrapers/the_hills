@@ -1421,7 +1421,13 @@
   date_received: '2019-05-29'
 - council_reference: 1669/2019/MA
   address: 78 Mapleton Avenue, NORTH KELLYVILLE  NSW  2155
-  description: Construction of a Pergola and a Deck
+  description: Construction of a Deck and Pergola
+  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-29'
+- council_reference: 1670/2019/LD
+  address: 36 Palace Road, BAULKHAM HILLS  NSW  2153
+  description: Three Storey Dwelling, a Swimming Pool, Front Fence and Retaining Walls
   info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-05-29'
@@ -2571,6 +2577,12 @@
   info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-05-28'
+- council_reference: 1905/2019/NA
+  address: 78 Mapleton Avenue, NORTH KELLYVILLE  NSW  2155
+  description: Construction of a Pergola and a Deck
+  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-29'
 - council_reference: 191/2019/LD/A
   address: 11 Parsons Circuit, KELLYVILLE  NSW  2155
   description: Section 4.55 (1A) Modification to an Approved Single Storey Dwelling,
@@ -2743,6 +2755,13 @@
   info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-05-13'
+- council_reference: 71/2019/EC/A
+  address: 17 Edwards Road, ROUSE HILL  NSW  2155
+  description: Subdivision creating 28 residential lots and two residue lots including
+    new road
+  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-29'
 - council_reference: 710/2019/ZA/A
   address: Development Lot, Off Foxall Road, NORTH KELLYVILLE  NSW  2155
   description: Section 4.55(1A) modification to a subdivision creating 10 residential
@@ -2795,8 +2814,8 @@
   date_scraped: '2019-05-15'
   date_received: '2019-05-27'
 - council_reference: Not on file
-  address: ''
-  description: Construction of a Pergola
+  address: 12 Charbray Street, BOX HILL  NSW  2765
+  description: Two Storey Dwelling
   info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-05-29'
