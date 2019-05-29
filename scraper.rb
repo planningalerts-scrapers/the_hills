@@ -15,18 +15,6 @@ page = EpathwayScraper::Page::ListSelect.pick(page, :all)
 # Search for the last 30 days is set by default
 page = EpathwayScraper::Page::Search.click_search(page)
 
-number_of_pages = scraper.extract_total_number_of_pages(page)
-
-puts "Found #{number_of_pages} pages of development applications"
-
-(1..number_of_pages).each do |page_no|
-  puts "Scraping page #{page_no}"
-  # Don't refetch the first page
-  if page_no > 1
-    page = agent.get("https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquirySummaryView.aspx?PageNumber=#{page_no}")
-  end
-
-  scraper.scrape_index_page(page) do |record|
-    EpathwayScraper.save(record)
-  end
+EpathwayScraper::Page::Index.scrape_all_index_pages_with_gets(nil, scraper.base_url, scraper.agent) do |record|
+  EpathwayScraper.save(record)
 end
