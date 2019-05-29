@@ -8,7 +8,7 @@ agent = scraper.agent
 enquiry_url = "https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx"
 
 # Get the main page and ask for DAs
-page = agent.get(enquiry_url)
+page = agent.get(scraper.base_url)
 form = page.forms.first
 form.radiobuttons[0].click
 page = form.submit(form.button_with(:value => /Next/))
