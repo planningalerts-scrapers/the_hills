@@ -9,14 +9,11 @@ enquiry_url = "https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/Gene
 
 # Get the main page and ask for DAs
 page = agent.get(scraper.base_url)
-form = page.forms.first
-form.radiobuttons[0].click
-page = form.submit(form.button_with(:value => /Next/))
 
-# Search for the last 30 days
-form = page.forms.first
-form.radiobuttons.last.click
-page = form.submit(form.button_with(:value => /Search/))
+page = EpathwayScraper::Page::ListSelect.pick(page, :all)
+
+# Search for the last 30 days is set by default
+page = EpathwayScraper::Page::Search.click_search(page)
 
 number_of_pages = scraper.extract_total_number_of_pages(page)
 
