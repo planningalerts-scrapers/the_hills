@@ -4,11 +4,8 @@ scraper = EpathwayScraper::Scraper.new(
   "https://epathway.thehills.nsw.gov.au/ePathway/Production"
 )
 
-agent = scraper.agent
-enquiry_url = "https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx"
-
 # Get the main page and ask for DAs
-page = agent.get(scraper.base_url)
+page = scraper.agent.get(scraper.base_url)
 
 page = EpathwayScraper::Page::ListSelect.pick(page, :all)
 
