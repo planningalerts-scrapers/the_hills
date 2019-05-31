@@ -14,24 +14,6 @@
   info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-05-27'
-- council_reference: 1011/2019/PCDD
-  address: 94 Foxall Road, NORTH KELLYVILLE  NSW  2155
-  description: Two Storey Dwelling-#190046/01
-  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-04-30'
-- council_reference: 1012/2019/PCDC
-  address: 12/589 Withers Road, ROUSE HILL  NSW  2155
-  description: Construction of a Mezzanine in an Industrial Unit-#190051
-  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-04-30'
-- council_reference: 1015/2019/PCDD
-  address: 12 Marketsfield Avenue, NORTH KELLYVILLE  NSW  2155
-  description: Two Storey Dwelling-#8041718
-  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-04-30'
 - council_reference: 1016/2019/PCDA
   address: 41 Cambewarra Avenue, CASTLE HILL  NSW  2154
   description: Alterations to an Existing Dwelling including modification to Existing
@@ -365,13 +347,6 @@
   info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-05-15'
-- council_reference: 107/2019/EC
-  address: 20A Nelson Road, BOX HILL  NSW  2765
-  description: Subdivision creating 56 residential lots and one residue lot including
-    new road and demolition over two stages
-  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-05-01'
 - council_reference: 1070/2019/PCDA
   address: 4 Leumeah Avenue, BAULKHAM HILLS  NSW  2153
   description: Demolition of Single Storey Dwelling, Swimming Pool and Ancillary Structures
@@ -433,16 +408,6 @@
   info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-05-17'
-- council_reference: 108/2019/EC
-  address: 10 Red Gables Road, BOX HILL  NSW  2765
-  description: Designated development for bulk earthworks, creek rehabilitation and
-    series of detention basins incorporating an on-line lake/ prescribed dam (partial
-    approval for the remaining bulk earthworks excluding all dam geotechnical matters
-    (both embankments and the lake liner), retaining walls and vegetation management/
-    rehabilitation works)
-  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-05-02'
 - council_reference: 1080/2019/PCDC
   address: Castle Towers, 6-14 Castle Street, CASTLE HILL  NSW  2154
   description: 'Zone 2 Basement 1: remove and replace slab on ground and installation
@@ -576,6 +541,12 @@
   info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-05-23'
+- council_reference: 110/2019/EC
+  address: Development Lot, Red Gables Road, BOX HILL  NSW  2765
+  description: Subdivision creating one residue lot including new road
+  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-30'
 - council_reference: 1100/2019/PCDC
   address: 350 Annangrove Road, ROUSE HILL  NSW  2155
   description: Internal Fitout J190072
@@ -618,13 +589,6 @@
   info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-05-27'
-- council_reference: 1106/2018/PCDA/A
-  address: 35 Corona Street, BOX HILL  NSW  2765
-  description: 'Modification A to an Approved Inground swimming pool-Change to Filter
-    Box Location - #SXC2018-/00118A'
-  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-04-30'
 - council_reference: 1106/2019/PCDA
   address: Lot 2321 DP 1217663 Arkose Road, BOX HILL  NSW  2765
   description: Inground Swimming Pool and Fencing-#1903264/01
@@ -661,6 +625,36 @@
   info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-05-28'
+- council_reference: 1112/2019/PCDD
+  address: 14 Gloaming Street, BOX HILL  NSW  2765
+  description: Single Storey Dwelling 752/19
+  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-29'
+- council_reference: 1113/2019/PCDC
+  address: Lot 129 DP 280036 Civic Way, ROUSE HILL  NSW  2155
+  description: Takeaway Coffee Shop Fitout 00061328
+  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-30'
+- council_reference: 1114/2019/PCDC
+  address: Future Kellyville Station Northern Carpark, 2 Derrobarry Street, KELLYVILLE  NSW  2155
+  description: Takeaway Coffee Shop Fitout (Lot 3 DP1184376)
+  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-30'
+- council_reference: 1115/2019/PCDA
+  address: 3 Themeda Place, CATTAI  NSW  2756
+  description: Construction of a Swimming Pool SXC2019/00133
+  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-31'
+- council_reference: 1116/2019/PCDC
+  address: Castle Towers, 6-14 Castle Street, CASTLE HILL  NSW  2154
+  description: Coles Supermarket Fitout 19-212349cdc1
+  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-31'
 - council_reference: 1117/2018/LA/A
   address: 38 Carinda Drive, GLENHAVEN  NSW  2156
   description: A Section 4.55(1A) Modification to an Approved Deck and Awning, Pergola,
@@ -669,26 +663,24 @@
   info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-05-17'
-- council_reference: 120/2019/SC
-  address: 68 Terry Road, BOX HILL  NSW  2765
-  description: Subdivision creating one stormwater management lot and one residue
-    lot (Exempt Development)
+- council_reference: 1117/2019/PCDD
+  address: 22 Copenhagen Street, BOX HILL  NSW  2765
+  description: Two Storey Dwelling and Detached Secondary Dwelling X2019-/00147
   info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
-  date_received: '2019-04-30'
-- council_reference: 121/2019/SC
-  address: 146 Old Pitt Town Road, BOX HILL  NSW  2765
-  description: Subdivision creating 12 residential lots and one residue lot including
-    new road and demolition
+  date_received: '2019-05-31'
+- council_reference: 1119/2019/PCDA
+  address: 4 Jacaranda Avenue, BAULKHAM HILLS  NSW  2153
+  description: Inground Swimming Pool XC2019-/00019
   info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
-  date_received: '2019-05-01'
-- council_reference: 122/2019/SC
-  address: Development Lot, 39 Andromeda Parkway, BOX HILL  NSW  2765
-  description: Subdivision creating 49 residential lots including new road
+  date_received: '2019-05-31'
+- council_reference: 1120/2019/PCDC
+  address: Castle Towers, 6-14 Castle Street, CASTLE HILL  NSW  2154
+  description: Tenancy Fitout as Shoes & Sox 5789/0
   info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
-  date_received: '2019-05-01'
+  date_received: '2019-05-31'
 - council_reference: 123/2019/SC
   address: Lot 412 DP 1230476 Newhaven Avenue, MARAYLYA  NSW  2765
   description: Small lot housing development and subdivision creating 21 residential
@@ -716,18 +708,6 @@
   info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-05-06'
-- council_reference: 1252/2019/PD/A
-  address: 12 Antill Crescent, BAULKHAM HILLS  NSW  2153
-  description: An Amendment to a  Single Storey Dwelling - 8041009-A
-  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-04-30'
-- council_reference: 1252/2019/PD/B
-  address: 12 Antill Crescent, BAULKHAM HILLS  NSW  2153
-  description: An Amendement to a Single Storey Dwelling - 8041009-B
-  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-04-30'
 - council_reference: 126/2019/SC
   address: 123 Arnold Avenue, KELLYVILLE  NSW  2155
   description: Stage two of a subdivision creating four residential lots including
@@ -821,101 +801,6 @@
   info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-05-10'
-- council_reference: 1565/2019/LD
-  address: 7 Purpletop Drive, KELLYVILLE  NSW  2155
-  description: A Two Storey Dwelling and Retaining Walls
-  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-04-30'
-- council_reference: 1566/2019/LD
-  address: 9 Purpletop Drive, KELLYVILLE  NSW  2155
-  description: A Two Storey Dwelling and Retaining Walls
-  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-04-30'
-- council_reference: 1567/2019/LD
-  address: Lot 2191 DP 1217661 Janpieter Road, BOX HILL  NSW  2765
-  description: A Two Storey Dwelling and Front Fence
-  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-04-30'
-- council_reference: 1568/2019/HA
-  address: 44 Fenway Street, NORTH KELLYVILLE  NSW  2155
-  description: Two Storey Dwelling with Attached Studio Dwelling and Strata Subdivision
-  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-04-30'
-- council_reference: 1569/2019/MA
-  address: 5548 Old Northern Road, WISEMANS FERRY  NSW  2775
-  description: Two Overlapping Curved Pergolas
-  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-04-30'
-- council_reference: 1570/2019/LD
-  address: 1 Gundawarra Place, KENTHURST  NSW  2156
-  description: Two Storey Dwelling, Shed and an Illuminated Tennis Court
-  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-05-01'
-- council_reference: 1571/2019/HA
-  address: "'Woolworths Dural Mall', 2 Allen Way, DURAL  NSW  2158"
-  description: Alterations and Additions to an Existing Commercial Building Including
-    Retail Space, Parking and Signage
-  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-05-01'
-- council_reference: 1573/2019/LD
-  address: 29 Hyperno Street, MARAYLYA  NSW  2765
-  description: A Two Storey Dwelling
-  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-05-01'
-- council_reference: 1575/2019/MA
-  address: 10 Calais Place, CASTLE HILL  NSW  2154
-  description: Alterations and Additions
-  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-05-01'
-- council_reference: 1577/2019/LA
-  address: 9 Gray Spence Crescent, WEST PENNANT HILLS  NSW  2125
-  description: A Swimming Pool and awning
-  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-05-02'
-- council_reference: 1578/2019/HA
-  address: 12 Lonsdale Place, WEST PENNANT HILLS  NSW  2125
-  description: Detached Secondary Dwelling unde the Provisions of SEPP Affordable
-    Rental Housing 2009, a Swimming Pool and Gazebo
-  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-05-02'
-- council_reference: 1579/2019/LD
-  address: 82 Cataract Road, BOX HILL  NSW  2765
-  description: A Two Storey Dwelling and Inground Swimming Pool
-  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-05-02'
-- council_reference: 1580/2019/HA
-  address: 13 Gizi Street, BOX HILL  NSW  2765
-  description: Single Story Dwelling for Use as an Exhibition Home within an Approved
-    Exhibition Village
-  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-05-02'
-- council_reference: 1581/2019/HA
-  address: 11 Gizi Street, BOX HILL  NSW  2765
-  description: Single Storey Dwelling and Signage for Use as an Exhibition Home within
-    an Approved Exhibition Village
-  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-05-02'
-- council_reference: 1582/2019/HA
-  address: 15 Gizi Street, BOX HILL  NSW  2765
-  description: Two Storey Dwelling and Signage for Use as an Exhibition Home within
-    an Approved Exhibition Home
-  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-05-02'
 - council_reference: 1583/2019/ZB
   address: 3 Red Gables Road, BOX HILL  NSW  2765
   description: Subdivision creating 141 residential lots, three residue lots and one
@@ -1244,7 +1129,7 @@
   date_received: '2019-05-17'
 - council_reference: 1637/2019/HA
   address: 9 Gray Spence Crescent, WEST PENNANT HILLS  NSW  2125
-  description: Use of a Secondary Dwelling as a Health Consulting Room
+  description: Use of an Outbuilding as a Health Consulting Room
   info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-05-17'
@@ -1421,30 +1306,99 @@
   date_received: '2019-05-29'
 - council_reference: 1669/2019/MA
   address: 78 Mapleton Avenue, NORTH KELLYVILLE  NSW  2155
-  description: Construction of a Deck and Pergola
+  description: Construction of a Deck and Awning
   info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-05-29'
 - council_reference: 1670/2019/LD
   address: 36 Palace Road, BAULKHAM HILLS  NSW  2153
-  description: Three Storey Dwelling, a Swimming Pool, Front Fence and Retaining Walls
+  description: A Three Storey Split Level Dwelling, Inground Swimming Pool, Front
+    Fence and Retaining Walls
   info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-05-29'
-- council_reference: 1723/2019/PC
-  address: 26-30 Norbrik Drive, BELLA VISTA  NSW  2153
-  description: Installation of Six Flag Poles and Signage for an approved Seniors
-    Living Development - 190099
+- council_reference: 1671/2019/LA
+  address: 2/12 Penderlea Drive, WEST PENNANT HILLS  NSW  2125
+  description: Operable Patio Cover
   info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
-  date_received: '2019-04-30'
-- council_reference: 1724/2019/PC
-  address: Knightsbridge Shopping Centre, 159 Ridgecrop Drive, CASTLE HILL  NSW  2154
-  description: Expansion of Knightsbridge Shopping Centre. Excludes Works Associated
-    with Southern End - 17/0085/02
+  date_received: '2019-05-29'
+- council_reference: 1672/2019/LA
+  address: 99 Kenthurst Road, KENTHURST  NSW  2156
+  description: Alterations and Additions to an Existing Dwelling
   info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
-  date_received: '2019-04-30'
+  date_received: '2019-05-30'
+- council_reference: 1673/2019/LD
+  address: 12 Charbray Street, BOX HILL  NSW  2765
+  description: A Two Storey Dwelling
+  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-30'
+- council_reference: 1674/2019/LD
+  address: 32 Europa Street, BOX HILL  NSW  2765
+  description: Two Storey Dwelling and Retaining Walls
+  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-30'
+- council_reference: 1675/2019/HA
+  address: 83 Showground Road, CASTLE HILL  NSW  2154
+  description: Centre-Based Child Care Facility
+  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-30'
+- council_reference: 1676/2019/HA
+  address: 5 Teton Street, BOX HILL  NSW  2765
+  description: Two Storey Dwelling and Attached Secondary Dwelling Pursuant to SEPP
+    (Affordable Rental Housing 2009
+  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-30'
+- council_reference: 1677/2019/LD
+  address: 7 Tooloom Road, NORTH KELLYVILLE  NSW  2155
+  description: Two Storey Dwelling, Swimming Pool and Retaining Walls
+  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-30'
+- council_reference: 1678/2019/MA
+  address: 10 Gretta Place, KELLYVILLE  NSW  2155
+  description: An Awning
+  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-30'
+- council_reference: 1679/2019/LD
+  address: 11 Chaelundi Crescent, NORTH KELLYVILLE  NSW  2155
+  description: A Three Storey Dwelling, Inground Swimming Pool, Cabana and Retaining
+    Walls
+  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-30'
+- council_reference: 1680/2019/LD
+  address: 33 Jack Peel Circuit, KELLYVILLE  NSW  2155
+  description: Single Storey Dwelling
+  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-31'
+- council_reference: 1681/2019/ZC
+  address: 79-81 Railway Street, BAULKHAM HILLS  NSW  2153
+  description: Strata Subdivsion of four, three bedroom villas approved under application
+    930/2011/HB.
+  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-31'
+- council_reference: 1682/2019/LA
+  address: 17 Patriot Place, ROUSE HILL  NSW  2155
+  description: Construction of a Carport
+  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-31'
+- council_reference: 1683/2019/HA
+  address: Development Lot, Mackillop Drive, BAULKHAM HILLS  NSW  2153
+  description: Proposed staged adaptive reuse of heritage building for temporary sales
+    office (stage 1) and future (stage 2) health consulting rooms and commercial clubhouse
+  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-31'
 - council_reference: 1725/2018/LD/A
   address: 13 Sagars Road, DURAL  NSW  2158
   description: Section 4.55 (1A) Modification to the Approved Demolition of Existing
@@ -1453,315 +1407,14 @@
   info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-05-08'
-- council_reference: 1725/2019/PD
-  address: 3 Riverside Way, NORTH KELLYVILLE  NSW  2155
-  description: Two Storey Dwelling and Retaining Walls - 190067/01
+- council_reference: 175/2018/LD/A
+  address: 1 Cedar Cutters Way, BELLA VISTA  NSW  2153
+  description: A Section 4.55 (1A) Modification to an Approved Three Storey Dwelling,
+    Inground Swimming Pool, Retaining Walls and Boundary Fencing - Changes to Retaining
+    Wall and Fencing Design
   info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
-  date_received: '2019-04-30'
-- council_reference: 1726/2019/PA
-  address: 3 Keverstone Court, NORTH KELLYVILLE  NSW  2155
-  description: Construction of a Swimming Pool - SX2019-/00050
-  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-04-30'
-- council_reference: 1727/2019/PD
-  address: 16 Dolomite Road, BOX HILL  NSW  2765
-  description: Single Storey Dwelling - 8041663
-  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-04-30'
-- council_reference: 1728/2019/PD
-  address: 2 Folsom Crescent, NORTH KELLYVILLE  NSW  2155
-  description: Two Storey Dwelling - 8042758
-  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-04-30'
-- council_reference: 1729/2019/PD
-  address: 11 Sandstone Street, BOX HILL  NSW  2765
-  description: A Two Storey Dwelling - 8041654
-  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-04-30'
-- council_reference: 1730/2019/PD
-  address: 56A-56B Mapleton Avenue, NORTH KELLYVILLE  NSW  2155
-  description: Detached Dual Occupancy - 190105
-  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-04-30'
-- council_reference: 1731/2019/NA
-  address: 5548 Old Northern Road, WISEMANS FERRY  NSW  2775
-  description: Construction of a Pergola
-  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-04-30'
-- council_reference: 1733/2019/PD
-  address: 22 Crestwood Drive, BAULKHAM HILLS  NSW  2153
-  description: Detached Secondary Dwelling pursuant to SEPP Affordable Rental Housing
-    2009 - MBC2142
-  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-05-01'
-- council_reference: 1734/2019/PD
-  address: 7 Gloaming Street, BOX HILL  NSW  2765
-  description: Two Storey Dwelling - 8042529
-  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-05-01'
-- council_reference: 1735/2019/PD
-  address: 7 Folsom Crescent, NORTH KELLYVILLE  NSW  2155
-  description: Two Storey Dwelling and Retaining Walls - 0019/19/01
-  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-05-01'
-- council_reference: 1736/2019/PD
-  address: 33-35 Romagnola Street, BOX HILL  NSW  2765
-  description: Construction of a Single Storey Dwelling and Attached Secondary Dwelling
-    - 20190622
-  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-05-01'
-- council_reference: 1737/2019/PA
-  address: 43 Linksley Avenue, GLENHAVEN  NSW  2156
-  description: Subdivision creating two residential lots including partial demolition/
-    alterations and additions to an existing dwelling S2019-/00039
-  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-05-01'
-- council_reference: 1738/2019/PD
-  address: 9 Yengo Street, NORTH KELLYVILLE  NSW  2155
-  description: Two Storey Dwelling and Attached Secondary Dwelling - CC2019-0145
-  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-05-01'
-- council_reference: 1739/2019/PD
-  address: 9 Doncaster Street, BOX HILL  NSW  2765
-  description: A Two Storey Dwelling and Fencing on the Secondary Street Frontage
-    - X2019-/00176
-  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-05-01'
-- council_reference: 1740/2019/PD
-  address: 21 Andromeda Parkway, BOX HILL  NSW  2765
-  description: A Two Storey Dwelling. Retaining Walls NOT Approved Under Construction
-    Certificate X2019-/00184
-  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-05-01'
-- council_reference: 1741/2019/PD
-  address: 3 Borecole Street, BOX HILL  NSW  2765
-  description: A Two Storey Dwelling - 8042221
-  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-05-01'
-- council_reference: 1742/2019/PD
-  address: 17 Barakee Crescent, NORTH KELLYVILLE  NSW  2155
-  description: Two Storey Dwelling and Retaining Walls - 0113/19/01
-  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-05-01'
-- council_reference: 1743/2019/PD
-  address: 24 Fontana Drive, BOX HILL  NSW  2765
-  description: A Two Storey Dwelling and Retaining Walls - 0102/19/01
-  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-05-01'
-- council_reference: 1744/2019/PD
-  address: 56 Pimlico Street, BOX HILL  NSW  2765
-  description: A Two Storey Dwelling & Fencing on the Secondary Street Frontage X2019-/00183
-  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-05-01'
-- council_reference: 1745/2019/PA
-  address: 8 Binalong Road, KENTHURST  NSW  2156
-  description: Swimming Pool with Pool Bar and Fishpond and 18 Hole Illuminated Mini
-    Golf Course with Gazebos S2018-/00120
-  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-05-01'
-- council_reference: 1746/2019/NA
-  address: 10 Calais Place, CASTLE HILL  NSW  2154
-  description: Alterations and Additions to an Existing Dwelling
-  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-05-01'
-- council_reference: 1747/2019/PD
-  address: 52 Mapleton Avenue, NORTH KELLYVILLE  NSW  2155
-  description: A Two Storey Dwelling 8042764
-  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-05-02'
-- council_reference: 1748/2019/PA
-  address: 5 Churchwood Way, CASTLE HILL  NSW  2154
-  description: Swimming pool 8042165
-  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-05-02'
-- council_reference: 1749/2019/PD
-  address: 263 McClymonts Road, KENTHURST  NSW  2156
-  description: Two Storey Dwelling, Secondary Dwelling, Rural Shed and Swimming Pool
-    X2017-/00029
-  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-05-02'
-- council_reference: 1750/2019/PD
-  address: 51 Fontana Drive, BOX HILL  NSW  2765
-  description: Single Storey Dwelling 8042184
-  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-05-02'
-- council_reference: 1751/2019/PD
-  address: 5 Sandstone Street, BOX HILL  NSW  2765
-  description: Two Storey Dwelling 8041649
-  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-05-02'
-- council_reference: 1752/2019/PD
-  address: 4 Arkose Road, BOX HILL  NSW  2765
-  description: Single Storey Dwelling 8041677
-  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-05-02'
-- council_reference: 1753/2019/PD
-  address: 15 Sandstone Street, BOX HILL  NSW  2765
-  description: Two Storey Dwelling 8041655
-  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-05-02'
-- council_reference: 1754/2019/PD
-  address: 9 Sandstone Street, BOX HILL  NSW  2765
-  description: Two Storey Dwelling 8041651
-  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-05-02'
-- council_reference: 1755/2019/PD
-  address: 15 Marble Street, BOX HILL  NSW  2765
-  description: Two Storey Dwelling 8041659
-  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-05-02'
-- council_reference: 1756/2019/PD
-  address: 20 Dolomite Road, BOX HILL  NSW  2765
-  description: Single Storey Dwelling 8041660
-  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-05-02'
-- council_reference: 1757/2019/PD
-  address: 43 Fontana Drive, BOX HILL  NSW  2765
-  description: Two Storey Dwelling 8041675
-  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-05-02'
-- council_reference: 1758/2019/PD
-  address: 37 Neyland Circuit, NORTH KELLYVILLE  NSW  2155
-  description: Construction of an Attached Dual Occupancy with Strata Subdivision
-    S2018-/00123
-  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-05-02'
-- council_reference: 1759/2019/PD
-  address: 45 Fontana Drive, BOX HILL  NSW  2765
-  description: Single Storey Dwelling 8041674
-  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-05-02'
-- council_reference: 1760/2019/PD
-  address: 3 Sandstone Street, BOX HILL  NSW  2765
-  description: Two Storey Dwelling 8041648
-  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-05-02'
-- council_reference: 1761/2019/PD
-  address: 47 Fontana Drive, BOX HILL  NSW  2765
-  description: Single Storey Dwelling 8041671
-  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-05-02'
-- council_reference: 1762/2019/PD
-  address: 25 Cataract Road, BOX HILL  NSW  2765
-  description: Two Storey Dwelling and Retaining Wall  190024/01
-  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-05-02'
-- council_reference: 1763/2019/PA
-  address: 87 Bingara Crescent, BELLA VISTA  NSW  2153
-  description: Alterations and Additions to an Existing Dwelling 190078/01
-  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-05-02'
-- council_reference: 1764/2019/PD
-  address: 44 Moonstone Road, BOX HILL  NSW  2765
-  description: Two Storey Dwelling 8041666
-  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-05-02'
-- council_reference: 1765/2019/PD
-  address: 12 Fontana Drive, BOX HILL  NSW  2765
-  description: A Two Storey Dwelling, Inground Swimming Pool and Retaining Walls CC19/759
-  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-05-02'
-- council_reference: 1766/2019/PO
-  address: 101-129 Fairway Drive, NORWEST  NSW  2153
-  description: Construction of Fifteen Dwellings 180044
-  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-05-02'
-- council_reference: 1767/2019/PD
-  address: 16 Wallingat Road, NORTH KELLYVILLE  NSW  2155
-  description: Detached Dual Occupancy 19048CC01
-  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-05-02'
-- council_reference: 1768/2019/PA
-  address: 27A Grange Road, GLENHAVEN  NSW  2156
-  description: Swimming Pool, Pergola, Carport and Retaining Walls 00001149
-  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-05-02'
-- council_reference: 1769/2019/PD
-  address: 74 Oxlade Street, NORTH KELLYVILLE  NSW  2155
-  description: Two Storey Dwelling and Retaining Walls 190106
-  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-05-02'
-- council_reference: 1770/2019/PA
-  address: 4 Parkview Avenue, GLENORIE  NSW  2157
-  description: A Covered Front Verandah Addition 192249-1
-  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-05-02'
-- council_reference: 1771/2019/PD
-  address: 6 Gloaming Street, BOX HILL  NSW  2765
-  description: Two Storey Dwelling 8042530
-  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-05-02'
-- council_reference: 1772/2019/PA
-  address: 52 Francis Street, CASTLE HILL  NSW  2154
-  description: Alterations and Additions to the Existing Dwelling, Proposed Inground
-    Swimming Pool and attached Garage with Construction of Front Fence
-  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-05-02'
-- council_reference: 1773/2019/PD
-  address: 11 Marble Street, BOX HILL  NSW  2765
-  description: Two Storey Dwelling 8041657
-  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-05-02'
-- council_reference: 1774/2019/PD
-  address: 6 Arkose Road, BOX HILL  NSW  2765
-  description: Single Storey Dwelling 8042185
-  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-05-02'
-- council_reference: 1775/2019/PD
-  address: 49 Fontana Drive, BOX HILL  NSW  2765
-  description: Single Storey Dwelling 8041670
-  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-05-02'
+  date_received: '2019-05-29'
 - council_reference: 1777/2019/PD
   address: 34-34A Noah Street, BOX HILL  NSW  2765
   description: Construction of a Two Storey Dwelling and Signage and Retaining Walls
@@ -1776,6 +1429,13 @@
   info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-05-03'
+- council_reference: 1779/2018/PO/A
+  address: 51-53 Old Castle Hill Road, CASTLE HILL  NSW  2154
+  description: Construction of Five Residential Flat Buildings- Limited to basement
+    levels and buildings A, B & C J170157C
+  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-31'
 - council_reference: 1779/2019/PD
   address: 12 Gittel Street, BOX HILL  NSW  2765
   description: Single Storey Dwelling for Use as an Exhibition Home and Signage 0163/19/01
@@ -2583,6 +2243,26 @@
   info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-05-29'
+- council_reference: 1906/2019/NA
+  address: 10 Gretta Place, KELLYVILLE  NSW  2155
+  description: Construction of a Pergola
+  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-30'
+- council_reference: 1907/2019/PC
+  address: 2-12 Inglewood Place, NORWEST  NSW  2153
+  description: Occupation of Unit 2 for an Indoor Recreation Facility and Signage
+    5086
+  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-31'
+- council_reference: 1908/2019/PD
+  address: 15 Hereford Street, BOX HILL  NSW  2765
+  description: Construction Certificate for Single Storey Dwelling and Retaining Walls
+    705/19
+  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-31'
 - council_reference: 191/2019/LD/A
   address: 11 Parsons Circuit, KELLYVILLE  NSW  2155
   description: Section 4.55 (1A) Modification to an Approved Single Storey Dwelling,
@@ -2590,6 +2270,42 @@
   info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-05-27'
+- council_reference: 1911/2019/KA
+  address: 4 Bogan Avenue, BAULKHAM HILLS  NSW  2153
+  description: Alterations and Additions to an Existing Dwelling
+  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-31'
+- council_reference: 1912/2019/PD
+  address: 14 Morwell Drive, NORTH KELLYVILLE  NSW  2155
+  description: New Dwelling & Retaining Walls
+  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-31'
+- council_reference: 1913/2019/PD
+  address: 17 Gardenview Court, BELLA VISTA  NSW  2153
+  description: A Two Storey Dwelling, Inground Swimming Pool and Retaining Walls 384C19
+  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-31'
+- council_reference: 1914/2019/PD
+  address: 51 Tuckwell Road, CASTLE HILL  NSW  2154
+  description: Construction Certificate for Construction of a Shade Sail 190138
+  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-31'
+- council_reference: 1915/2019/PD
+  address: 54 Pimlico Street, BOX HILL  NSW  2765
+  description: A Two Storey Dwelling & Fencing on the Secondary Street Frontage X2019-/00251
+  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-31'
+- council_reference: 1916/2019/PD
+  address: 26 Galloway Road, BOX HILL  NSW  2765
+  description: Construction Certificate Two Storey Dwelling and Retaining Walls 8043701
+  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-31'
 - council_reference: 1946/2018/HC/A
   address: 739 Windsor Road, BOX HILL  NSW  2765
   description: Section 4.55(1A) Modification to an Approved Self Storage Facility
@@ -2653,13 +2369,6 @@
   info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-05-13'
-- council_reference: 239/2017/PD/A
-  address: 44 Old Castle Hill Road, CASTLE HILL  NSW  2154
-  description: Section 4.55 (1A) Modification to an Approved Multi Dwelling Housing
-    Development 323-0516/2
-  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-05-01'
 - council_reference: 263/2019/ZA/A
   address: Off 739 Windsor Road, BOX HILL  NSW  2765
   description: Section 4.55(1) modification to a facilitating subdivision (no physical
@@ -2675,6 +2384,13 @@
   info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-05-28'
+- council_reference: 337/2015/LD/A
+  address: 766 River Road, LOWER PORTLAND  NSW  2756
+  description: Section 4.55 (1A) Modification to an Approved Shed for Use as Temporary
+    Residential Accommodation
+  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-30'
 - council_reference: 364/2017/NA/A
   address: 3 Whites Ridge Road, ANNANGROVE  NSW  2156
   description: Modification to Approved Alterations and additions and inground swimming
@@ -2704,19 +2420,20 @@
   info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-05-20'
+- council_reference: 440/2018/KD/A
+  address: 1 Cedar Cutters Way, BELLA VISTA  NSW  2153
+  description: Section 4.55 (1A) Modification to an Approved Three storey dwelling,
+    inground swimming pool, retaining walls and boundary fencing - Changes to Retaining
+    Wall and Fencing
+  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-29'
 - council_reference: 481/2019/PCDA/A
   address: 28 Half Penny Avenue, KELLYVILLE  NSW  2155
   description: Modification to an Approved Construction of a Swimming Pool 2018/251-2
   info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-05-17'
-- council_reference: 516/2019/LD/A
-  address: 8 Ravensbourne Avenue, NORTH KELLYVILLE  NSW  2155
-  description: A Section 4.55(1A) Modification to an Approved Two Storey Dwelling
-    and Retaining Walls - Changes to Dwelling Design
-  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-05-02'
 - council_reference: 531/2019/LA/A
   address: 776 Old Northern Road, MIDDLE DURAL  NSW  2158
   description: Section 4.55 (1A) Modification to an Approved Illuminated Tennis Court,
@@ -2778,6 +2495,14 @@
   info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-05-16'
+- council_reference: 859/2015/LA/B
+  address: 18 Bannerman Road, KENTHURST  NSW  2156
+  description: Section 4.55 (2) Modification to Approved Alterations and Additions
+    to a Dwelling including Construction of an Inground Swimming Pool, Cabana And
+    Shed
+  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-31'
 - council_reference: 862/2019/HA/A
   address: 26-26A Noah Street, BOX HILL  NSW  2765
   description: Section 4.55 (1A) Modification to an Approved Two Storey Dwelling with
@@ -2813,9 +2538,3 @@
   info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-05-27'
-- council_reference: Not on file
-  address: 12 Charbray Street, BOX HILL  NSW  2765
-  description: Two Storey Dwelling
-  info_url: https://epathway.thehills.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2019-05-29'
